@@ -1,0 +1,15 @@
+[03-Jul-2024 06:16:07 UTC] PHP Warning:  Array to string conversion in /var/www/html/wp-includes/formatting.php on line 1108
+[03-Jul-2024 06:16:37 UTC] PHP Warning:  Array to string conversion in /var/www/html/wp-includes/formatting.php on line 1108
+[03-Jul-2024 06:16:41 UTC] PHP Warning:  Array to string conversion in /var/www/html/wp-includes/formatting.php on line 1108
+[03-Jul-2024 07:27:49 UTC] PHP Warning:  Undefined variable $setting in /var/www/html/wp-content/plugins/mondayForms/views/mint-monday-settings-page.php on line 16
+[03-Jul-2024 07:27:59 UTC] PHP Warning:  Undefined variable $setting in /var/www/html/wp-content/plugins/mondayForms/views/mint-monday-settings-page.php on line 16
+[03-Jul-2024 07:28:10 UTC] PHP Warning:  Undefined variable $setting in /var/www/html/wp-content/plugins/mondayForms/views/mint-monday-settings-page.php on line 16
+[03-Jul-2024 07:28:11 UTC] PHP Warning:  Undefined variable $setting in /var/www/html/wp-content/plugins/mondayForms/views/mint-monday-settings-page.php on line 16
+[03-Jul-2024 07:29:44 UTC] PHP Warning:  Undefined array key "mint_modany_settings" in /var/www/html/wp-content/plugins/mondayForms/views/mint-monday-settings-page.php on line 5
+[03-Jul-2024 07:29:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /var/www/html/wp-content/plugins/mondayForms/views/mint-monday-settings-page.php on line 5
+[03-Jul-2024 07:29:44 UTC] PHP Warning:  Undefined array key "mint_modany_settings" in /var/www/html/wp-content/plugins/mondayForms/views/mint-monday-settings-page.php on line 6
+[03-Jul-2024 07:29:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /var/www/html/wp-content/plugins/mondayForms/views/mint-monday-settings-page.php on line 6
+[03-Jul-2024 07:30:21 UTC] PHP Warning:  Undefined array key "mint_modany_settings" in /var/www/html/wp-content/plugins/mondayForms/views/mint-monday-settings-page.php on line 5
+[03-Jul-2024 07:30:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /var/www/html/wp-content/plugins/mondayForms/views/mint-monday-settings-page.php on line 5
+[03-Jul-2024 07:30:21 UTC] PHP Warning:  Undefined array key "mint_modany_settings" in /var/www/html/wp-content/plugins/mondayForms/views/mint-monday-settings-page.php on line 6
+[03-Jul-2024 07:30:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /var/www/html/wp-content/plugins/mondayForms/views/mint-monday-settings-page.php on line 6
