@@ -13,3 +13,20 @@
 [03-Jul-2024 07:30:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /var/www/html/wp-content/plugins/mondayForms/views/mint-monday-settings-page.php on line 5
 [03-Jul-2024 07:30:21 UTC] PHP Warning:  Undefined array key "mint_modany_settings" in /var/www/html/wp-content/plugins/mondayForms/views/mint-monday-settings-page.php on line 6
 [03-Jul-2024 07:30:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /var/www/html/wp-content/plugins/mondayForms/views/mint-monday-settings-page.php on line 6
+[04-Jul-2024 03:03:23 UTC] PHP Warning:  Undefined array key "view_id" in /var/www/html/wp-content/plugins/mondayForms/views/mint-monday-settings-page.php on line 97
+[04-Jul-2024 04:55:19 UTC] PHP Deprecated:  Function print_emoji_styles is deprecated since version 6.4.0! Use wp_enqueue_emoji_styles instead. in /var/www/html/wp-includes/functions.php on line 6078
+[04-Jul-2024 05:25:30 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /var/www/html/wp-admin/includes/translation-install.php on line 62
+[04-Jul-2024 05:26:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /var/www/html/wp-content/plugins/mondayForms/views/mint-monday-settings-page.php on line 96
+[04-Jul-2024 05:26:17 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /var/www/html/wp-content/plugins/mondayForms/views/mint-monday-settings-page.php on line 99
+[04-Jul-2024 05:45:25 UTC] PHP Warning:  Undefined variable $settings_str in /var/www/html/wp-content/plugins/mondayForms/views/mint-monday-settings-page.php on line 104
+[04-Jul-2024 05:51:32 UTC] PHP Warning:  Undefined array key "labels" in /var/www/html/wp-content/plugins/mondayForms/views/mint-monday-settings-page.php on line 104
+[04-Jul-2024 06:08:36 UTC] PHP Warning:  Undefined array key "labels" in /var/www/html/wp-content/plugins/mondayForms/views/mint-monday-settings-page.php on line 104
+[04-Jul-2024 06:24:21 UTC] PHP Warning:  Undefined array key "labels" in /var/www/html/wp-content/plugins/mondayForms/views/mint-monday-settings-page.php on line 104
+[04-Jul-2024 06:25:24 UTC] PHP Warning:  Undefined array key "labels" in /var/www/html/wp-content/plugins/mondayForms/views/mint-monday-settings-page.php on line 104
+[04-Jul-2024 06:25:28 UTC] PHP Warning:  Undefined array key "labels" in /var/www/html/wp-content/plugins/mondayForms/views/mint-monday-settings-page.php on line 104
+[04-Jul-2024 06:35:17 UTC] PHP Warning:  Undefined array key "labels" in /var/www/html/wp-content/plugins/mondayForms/views/mint-monday-settings-page.php on line 104
+[04-Jul-2024 06:36:23 UTC] PHP Warning:  Undefined array key "labels" in /var/www/html/wp-content/plugins/mondayForms/views/mint-monday-settings-page.php on line 104
+[04-Jul-2024 06:40:50 UTC] PHP Warning:  Undefined array key "labels" in /var/www/html/wp-content/plugins/mondayForms/views/mint-monday-settings-page.php on line 104
+[04-Jul-2024 07:00:28 UTC] PHP Warning:  Undefined array key "labels" in /var/www/html/wp-content/plugins/mondayForms/views/mint-monday-settings-page.php on line 104
+[04-Jul-2024 07:01:20 UTC] PHP Warning:  Undefined array key "labels" in /var/www/html/wp-content/plugins/mondayForms/views/mint-monday-settings-page.php on line 104
+[04-Jul-2024 07:06:09 UTC] PHP Warning:  Undefined array key "labels" in /var/www/html/wp-content/plugins/mondayForms/views/mint-monday-settings-page.php on line 104
