@@ -112,10 +112,12 @@ foreach ($columns as $column) {
 }
 
 // Display column values
-echo "<pre>";
-print_r($column_values);
-echo "</pre>";
 
+echo "<pre>";
+echo "<textarea>";
+print_r($column_values);
+echo "</textarea>";
+echo "</pre>";
 
 // Settings form
 ?>

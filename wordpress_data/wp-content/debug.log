@@ -30,3 +30,12 @@
 [04-Jul-2024 07:00:28 UTC] PHP Warning:  Undefined array key "labels" in /var/www/html/wp-content/plugins/mondayForms/views/mint-monday-settings-page.php on line 104
 [04-Jul-2024 07:01:20 UTC] PHP Warning:  Undefined array key "labels" in /var/www/html/wp-content/plugins/mondayForms/views/mint-monday-settings-page.php on line 104
 [04-Jul-2024 07:06:09 UTC] PHP Warning:  Undefined array key "labels" in /var/www/html/wp-content/plugins/mondayForms/views/mint-monday-settings-page.php on line 104
+[05-Jul-2024 05:03:08 UTC] PHP Warning:  Undefined array key "data" in /var/www/html/wp-content/plugins/mondayForms/views/mint-monday-settings-page.php on line 96
+[05-Jul-2024 05:03:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /var/www/html/wp-content/plugins/mondayForms/views/mint-monday-settings-page.php on line 96
+[05-Jul-2024 05:03:08 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /var/www/html/wp-content/plugins/mondayForms/views/mint-monday-settings-page.php on line 99
+[08-Jul-2024 00:07:03 UTC] PHP Warning:  Undefined array key "data" in /var/www/html/wp-content/plugins/mondayForms/views/mint-monday-settings-page.php on line 96
+[08-Jul-2024 00:07:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /var/www/html/wp-content/plugins/mondayForms/views/mint-monday-settings-page.php on line 96
+[08-Jul-2024 00:07:03 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /var/www/html/wp-content/plugins/mondayForms/views/mint-monday-settings-page.php on line 99
+[08-Jul-2024 00:09:05 UTC] PHP Warning:  Undefined array key "labels" in /var/www/html/wp-content/plugins/mondayForms/views/mint-monday-settings-page.php on line 104
+[09-Jul-2024 01:32:14 UTC] PHP Warning:  Undefined array key "labels" in /var/www/html/wp-content/plugins/mondayForms/views/mint-monday-settings-page.php on line 104
+[09-Jul-2024 01:33:38 UTC] PHP Warning:  Undefined array key "labels" in /var/www/html/wp-content/plugins/mondayForms/views/mint-monday-settings-page.php on line 104
